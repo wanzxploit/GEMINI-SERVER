@@ -25,6 +25,19 @@ npm -v
 
 If you don’t have Node.js installed, you can download it from [here](https://nodejs.org/).
 
+or you can download it directly in the terminal with the following command:
+
+With Termux:
+
+```bash
+pkg install nodejs
+```
+With Linux:
+
+```bash
+sudo apt install nodejs npm
+```
+
 ### Installation
 
 1. **Clone the repository** to your local machine:
