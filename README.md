@@ -1,6 +1,13 @@
 
 # GEMINI-SERVER
 
+![Banner](banner.png)
+
+![GitHub stars](https://img.shields.io/github/stars/wanzxploit/GEMINI-SERVER?style=social)
+![Version](https://img.shields.io/badge/version-1.0-brightgreen)
+![Node.js](https://img.shields.io/badge/node.js-16%2B-blue)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20termux-lightgrey)
+
 GEMINI-SERVER is a simple tool that allows you to interact with **Gemini AI** locally via a chatbot interface hosted on your machine. The tool provides a web-based interface to communicate with Gemini AI, enabling you to generate text content in real time. It is designed to run on a local server and can be accessed through your browser.
 
 ### Features
