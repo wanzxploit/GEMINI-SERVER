@@ -51,6 +51,9 @@ sudo apt install nodejs npm
 
     ```bash
     npm install
+    npm init -y
+    npm install express
+    npm install node-fetch@2
     ```
 
 3. **Start the server**:
